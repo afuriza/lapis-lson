@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="27">
+      <Unit0>
+        <Filename Value="Parser.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="19" Y="10"/>
+        <UsageCount Value="55"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="pasermain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="PaserMain"/>
+        <TopLine Value="52"/>
+        <CursorPos X="17" Y="63"/>
+        <UsageCount Value="55"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="lapislazuli.componentutils.pas"/>
+        <UnitName Value="LapisLazuli.ComponentUtils"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="59" Y="10"/>
+        <UsageCount Value="20"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="lapis.lson.pas"/>
+        <UnitName Value="Lapis.Lson"/>
+        <UsageCount Value="16"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="lapis.typeutils.pas"/>
+        <UnitName Value="Lapis.TypeUtils"/>
+        <UsageCount Value="16"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\src\lapis.lson.pas"/>
+        <UnitName Value="Lapis.Lson"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="524"/>
+        <CursorPos X="72" Y="540"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\src\lapis.typeutils.pas"/>
+        <UnitName Value="Lapis.TypeUtils"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="39"/>
+        <CursorPos X="7" Y="43"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\fpcup\files\fpcsrc\packages\fcl-json\src\jsonparser.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="41"/>
+        <UsageCount Value="7"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\fpcup\files\fpcsrc\packages\fcl-json\src\fpjson.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="286"/>
+        <UsageCount Value="7"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="C:\fpcup\files\fpcsrc\packages\rtl-objpas\src\inc\rtti.pp"/>
+        <UnitName Value="Rtti"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="203"/>
+        <UsageCount Value="27"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="C:\fpcup\files\fpcsrc\rtl\objpas\typinfo.pp"/>
+        <UnitName Value="TypInfo"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="58"/>
+        <CursorPos X="28" Y="64"/>
+        <UsageCount Value="27"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="C:\fpcup\files\lazarus\lcl\dialogs.pp"/>
+        <UnitName Value="Dialogs"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="713"/>
+        <CursorPos X="11" Y="724"/>
+        <UsageCount Value="7"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="C:\fpcup\files\lazarus\lcl\interfaces\win32\win32memostrings.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="88"/>
+        <CursorPos Y="99"/>
+        <UsageCount Value="7"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="C:\fpcup\files\lazarus\lcl\stdctrls.pp"/>
+        <UnitName Value="StdCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="991"/>
+        <CursorPos X="14" Y="1000"/>
+        <UsageCount Value="7"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="C:\fpcup\files\lazarus\lcl\include\custommemo.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="192"/>
+        <CursorPos X="31" Y="203"/>
+        <UsageCount Value="7"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="C:\fpcup\files\fpcsrc\rtl\inc\rttih.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="14"/>
+        <CursorPos X="23" Y="25"/>
+        <UsageCount Value="25"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="C:\fpcup\files\lazarus\lcl\controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1702"/>
+        <CursorPos X="14" Y="1710"/>
+        <UsageCount Value="7"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="C:\fpcup\files\lazarus\lcl\graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="62"/>
+        <CursorPos X="3" Y="73"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="C:\fpcup\files\fpcsrc\packages\fcl-image\src\fpcanvas.pp"/>
+        <UnitName Value="FPCanvas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="26"/>
+        <CursorPos X="3" Y="37"/>
+        <UsageCount Value="7"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="C:\fpcup\files\fpcsrc\rtl\objpas\sysutils\sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="115"/>
+        <CursorPos X="10" Y="128"/>
+        <UsageCount Value="13"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="C:\fpcup\files\fpcsrc\rtl\objpas\fgl.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1744"/>
+        <CursorPos Y="1761"/>
+        <UsageCount Value="10"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="C:\fpcup\files\lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2275"/>
+        <CursorPos Y="2288"/>
+        <UsageCount Value="10"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="C:\fpcup\files\lazarus\lcl\include\buttoncontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="8"/>
+        <CursorPos Y="22"/>
+        <UsageCount Value="10"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="C:\fpcup\files\lazarus\lcl\include\buttons.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="156"/>
+        <CursorPos Y="170"/>
+        <UsageCount Value="10"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="C:\fpcup\files\lazarus\lcl\include\messagedialogs.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="193"/>
+        <CursorPos Y="209"/>
+        <UsageCount Value="10"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="C:\fpcup\files\lazarus\components\lazutils\lazstringutils.pas"/>
+        <UnitName Value="LazStringUtils"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="272"/>
+        <CursorPos Y="295"/>
+        <UsageCount Value="10"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="C:\fpcup\files\lazarus\lcl\include\lclintf.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="479"/>
+        <CursorPos Y="493"/>
+        <UsageCount Value="10"/>
+      </Unit26>
+    </Units>
+    <JumpHistory Count="17" HistoryIndex="16">
+      <Position1>
+        <Filename Value="..\src\lapis.lson.pas"/>
+        <Caret Line="541" TopLine="527"/>
+      </Position1>
+      <Position2>
+        <Filename Value="..\src\lapis.lson.pas"/>
+        <Caret Line="542" TopLine="527"/>
+      </Position2>
+      <Position3>
+        <Filename Value="..\src\lapis.lson.pas"/>
+        <Caret Line="543" TopLine="527"/>
+      </Position3>
+      <Position4>
+        <Filename Value="..\src\lapis.lson.pas"/>
+        <Caret Line="359" TopLine="346"/>
+      </Position4>
+      <Position5>
+        <Filename Value="..\src\lapis.lson.pas"/>
+        <Caret Line="564" TopLine="539"/>
+      </Position5>
+      <Position6>
+        <Filename Value="..\src\lapis.lson.pas"/>
+        <Caret Line="359" TopLine="345"/>
+      </Position6>
+      <Position7>
+        <Filename Value="..\src\lapis.lson.pas"/>
+        <Caret Line="564" TopLine="539"/>
+      </Position7>
+      <Position8>
+        <Filename Value="..\src\lapis.lson.pas"/>
+        <Caret Line="283" TopLine="269"/>
+      </Position8>
+      <Position9>
+        <Filename Value="..\src\lapis.lson.pas"/>
+        <Caret Line="281" TopLine="269"/>
+      </Position9>
+      <Position10>
+        <Filename Value="..\src\lapis.lson.pas"/>
+        <Caret Line="288" TopLine="310"/>
+      </Position10>
+      <Position11>
+        <Filename Value="..\src\lapis.lson.pas"/>
+        <Caret Line="540" Column="83" TopLine="525"/>
+      </Position11>
+      <Position12>
+        <Filename Value="..\src\lapis.typeutils.pas"/>
+        <Caret Line="45" Column="41" TopLine="37"/>
+      </Position12>
+      <Position13>
+        <Filename Value="..\src\lapis.lson.pas"/>
+        <Caret Line="406" Column="28" TopLine="396"/>
+      </Position13>
+      <Position14>
+        <Filename Value="..\src\lapis.lson.pas"/>
+        <Caret Line="539" Column="67" TopLine="527"/>
+      </Position14>
+      <Position15>
+        <Filename Value="pasermain.pas"/>
+        <Caret Line="64" Column="9" TopLine="52"/>
+      </Position15>
+      <Position16>
+        <Filename Value="..\src\lapis.lson.pas"/>
+        <Caret Line="7" Column="63"/>
+      </Position16>
+      <Position17>
+        <Filename Value="..\src\lapis.lson.pas"/>
+        <Caret Line="539" Column="80" TopLine="527"/>
+      </Position17>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

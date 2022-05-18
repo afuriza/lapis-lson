@@ -1,0 +1,73 @@
+object Form1: TForm1
+  Left = 312
+  Height = 740
+  Top = 119
+  Width = 1136
+  Caption = 'Lapis LSON Parser'
+  ClientHeight = 740
+  ClientWidth = 1136
+  DesignTimePPI = 144
+  LCLVersion = '2.0.12.0'
+  object Memo2: TMemo
+    Left = 0
+    Height = 356
+    Top = 384
+    Width = 1136
+    Align = alClient
+    Lines.Strings = (
+      'ready...'
+    )
+    ParentFont = False
+    ReadOnly = True
+    ScrollBars = ssAutoBoth
+    TabOrder = 0
+  end
+  object Button1: TButton
+    Left = 0
+    Height = 38
+    Top = 346
+    Width = 1136
+    Align = alTop
+    Caption = 'Parse'
+    OnClick = Button1Click
+    ParentFont = False
+    TabOrder = 1
+  end
+  object Memo1: TMemo
+    Left = 0
+    Height = 346
+    Top = 0
+    Width = 1136
+    Align = alTop
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -18
+    Font.Name = 'Ubuntu Mono'
+    Font.Pitch = fpFixed
+    Font.Quality = fqDraft
+    Lines.Strings = (
+      'Color: #ec407a'
+      'Author: "Dio Affriza"'
+      'Description: ""'
+      'TLapisButton {'
+      '  Style {'
+      '    Color: #ff77a9'
+      '    BorderColor: default'
+      '    Round: 3'
+      '    Font {'
+      '      Name: "Ubuntu Mono"'
+      '      Color: #ffffff'
+      '      Height: 32'
+      '    }'
+      '    option2 {'
+      '      Text1: "Test 2"'
+      '      Text2: "Test 3"'
+      '    }'
+      '  }'
+      '}'
+    )
+    ParentFont = False
+    ScrollBars = ssAutoBoth
+    TabOrder = 2
+  end
+end

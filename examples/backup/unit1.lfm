@@ -1,0 +1,76 @@
+object Form1: TForm1
+  Left = 418
+  Height = 360
+  Top = 250
+  Width = 859
+  Caption = 'Form1'
+  ClientHeight = 360
+  ClientWidth = 859
+  DesignTimePPI = 144
+  OnCreate = FormCreate
+  OnPaint = FormPaint
+  object LCButton1: TLCButton
+    Left = 192
+    Height = 69
+    Top = 240
+    Width = 203
+    UseStyle = False
+    Style.GradientColors.Strings = (
+      'clWhite'
+      '$00F6F6F6'
+    )
+    Style.Rounding.RoundX = 5
+    Style.Rounding.RoundY = 5
+    Style.BorderColor = clGray
+    Style.BorderWidth = 1
+    StyleHover.GradientColors.Strings = (
+      '$00F6F6F6'
+      '$00EFEFEF'
+    )
+    StyleHover.Rounding.RoundX = 5
+    StyleHover.Rounding.RoundY = 5
+    StyleHover.BorderColor = clGray
+    StyleHover.BorderWidth = 1
+    StyleClick.GradientColors.Strings = (
+      '$00EFEFEF'
+      '$00F6F6F6'
+    )
+    StyleClick.Rounding.RoundX = 5
+    StyleClick.Rounding.RoundY = 5
+    StyleClick.BorderColor = clGray
+    StyleClick.BorderWidth = 1
+    Caption = 'LCButton1'
+  end
+  object LCPanel1: TLCPanel
+    Left = 576
+    Height = 69
+    Top = 160
+    Width = 203
+    UseStyle = False
+    Style.GradientColors.Strings = (
+      '$00F6F6F6'
+      'clWhite'
+    )
+    Style.Rounding.RoundX = 5
+    Style.Rounding.RoundY = 5
+    Style.BorderColor = clGray
+    Style.BorderWidth = 1
+    Caption = 'LCPanel1'
+    object Label1: TLabel
+      Left = 160
+      Height = 25
+      Top = 24
+      Width = 51
+      Caption = 'Label1'
+      ParentColor = False
+    end
+  end
+  object ATScrollbar1: TATScrollbar
+    Left = 712
+    Height = 200
+    Top = 88
+    Width = 20
+    DoubleBuffered = True
+    Kind = sbVertical
+  end
+end
