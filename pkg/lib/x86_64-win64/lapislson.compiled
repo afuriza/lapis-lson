@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="C:\fpcup\files\fpc\bin\x86_64-win64\fpc.exe" Date="1414247173"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FiD:\dev_projects\laz_lcl\lapis-lson\src -FuD:\dev_projects\laz_lcl\lapis-lson\src -FuC:\fpcup\files\lazarus\packager\units\x86_64-win64 -FuC:\fpcup\files\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\fpcup\files\lazarus\components\freetype\lib\x86_64-win64 -FuC:\fpcup\files\lazarus\lcl\units\x86_64-win64 -FuC:\fpcup\files\lazarus\lcl\units\x86_64-win64\win32 -FuD:\dev_projects\laz_lcl\lapis-lson\pkg\ -FUD:\dev_projects\laz_lcl\lapis-lson\pkg\lib\x86_64-win64\ -dLCL -dLCLwin32 lapislson.pas"/>
-</CONFIG>

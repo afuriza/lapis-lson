@@ -82,7 +82,7 @@ const
     '$',
     ':',
     '01234567890',
-    'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_',
+    'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_.',
     '"',
     '{',
     '}',
@@ -399,7 +399,9 @@ begin
         end;
         scOpeningBracket:begin
           Temp := TLSONNode.Create(FCurrentNode, FName.ToLower);
+
           FCurrentNode.Childs[FName.ToLower] := Temp;
+          FCurrentNode.Childs[FName.ToLower].AttrType := atvObject;
           FCurrentNode := Temp;
           FName := '';
           FState := stWaitForID;
