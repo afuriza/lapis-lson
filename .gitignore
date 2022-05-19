@@ -1,4 +1,6 @@
-/backup
-/lib
+/examples/backup/*
+/backup/*
+/lib/*
+/pkg/lib/*
+/pkg/backup
 /build/*
-/samaui/pkg/lib
