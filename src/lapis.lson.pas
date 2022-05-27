@@ -82,7 +82,7 @@ const
     '$',
     ':',
     '01234567890',
-    'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_.',
+    'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_/',
     '"',
     '{',
     '}',
